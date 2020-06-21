@@ -3,7 +3,7 @@
 DOCBOT using Angular and Dialogbox [demo](https://baymaxbot.netlify.app/)
 
 <p align="center">
-  <img src="screenshot.gif" width="50%"/>
+  <img src="screenshot1.gif" width="40%"/>
 </p>
 
 ## Run
